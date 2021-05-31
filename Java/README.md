@@ -19,6 +19,7 @@
 - [MinMax Algorithm](Algorithms/Min_Max_Algorithm_implementation.java)
 - [Sieve of Eratosthenes](Algorithms/Sieve_of_Eratosthenes.java)
 - [Strassen's Algorithm](Algorithms/Strassens_Algo_for_Matrix_multiplication.java)
+- [Big Mod Algorithm](Algorithms/bigmod_algorithm.java)
 
 ## Greedy Algorithms
 
@@ -107,7 +108,15 @@ _add list here_
 - [Median of two sorted arrays](cp/Median_of_two_sorted_arrays.java)
 - [Ckeck for Subarray with sum 0](cp/SubarraySumZero.java)
 - [Trapping Rain Water](cp/Trapping_rain_water.java)
+- [Trapping Rain Water II](cp/Trapping_rain_water_2D.java)
 - [Matrix Rotation in Clockwise and Anti-Clockwise Directions](cp/MatrixRotation.java)
+- [MEX of an Array](cp/MEX_of_an_array.java)
+
+- [Sliding Window Technique](cp/slding_window_technique.java)
+
+- [Find Minimum element in Rotated and Sorted Array](cp/minimum_in_rotated_sorted_array.java)
+- [Run length encoding](Run_Length_Encoding.java)
+
 
 ## Cryptography
 
@@ -122,6 +131,7 @@ _add list here_
 - [Hill Cipher](cryptography/HillCipher.java)
 - [Vigenere Cipher](cryptography/VigenereCipher.java)
 - [Playfair Cipher](cryptography/PlayFairCipher.java)
+- [XOR Cipher](cryptography/XORCipher.java)
 
 ## Dynamic Programming
 
@@ -138,6 +148,10 @@ _add list here_
 - [Flight of stairs](dp/FlightOfStairs.java)
 - [Minimum Cost Path](dp/MinimumCostPath.java)
 - [Egg Dropping Problem](dp/EggDroppingProblem.java)
+- [Travelling Salesman Problem](dp/Traveling_SalesmanDP.java)
+- [Longest Bitonic Subsequence](dp/Longest_bitonic_subsequence.java)
+- [Painting fence problem](dp/Painting_fence.java)
+- [Right Side View of Binary Tree](dp/RightViewBT.java)
 
 ## Data Structures
 
@@ -148,6 +162,7 @@ _add list here_
 - [Node to Root Path in a Binary Tree](ds/NodetoRootPath.java)
 - [Detect Loop in Linked List](ds/DetectLoopLL.java)
 - [Delete node from LinkedList](ds/DeleteElementLL.java)
+- [Fold A Linked List](ds/Fold A Linked List.java)
 - [Expression Tree from Postfix Expression](ds/Build_Expression_Tree.java)
 - [Huffman ENcoder](ds/Huffman.java)
 - [Linked List](ds/linkedList.java)
@@ -181,8 +196,11 @@ _add list here_
 - [Minimum Element in Stack](ds/Min_Element_In_Stack.java)
 - [Top view of a binary tree](ds/Top_view_of_binary_tree.java)
 - [Reversing Circular Linked List](ds/ReversingCircularLinkedList.java)
-- [First fit memory allocation](ds/Firstfit.java)
 - [Best fit memory allocation](ds/Bestfit.java)
+- [Hashtable chaining](ds/Hashtable_chaining.java)
+- [Linear probing in Hashtable](ds/Hashtable_linear_probing.java)
+- [Prefix to Postfix](ds/Prefix_to_postfix.java)
+- [Reverse queue using stack](ds/Reverse_queue_using_stack.java)
 
 ## Graphs
 
@@ -245,6 +263,8 @@ _add list here_
 - [Sum of Nth Row of Pascal Triangle](math/PascalNthRowSum.java)
 - [Lucky Number](math/LuckyNumber.java)
 - [Special Number](math/Special.java)
+- [Generalized Cullen Number](math/cullen_number.java)
+- [Median of Running Streams](math/Findmedian.java)
 
 ## Dynamic Programming
 
@@ -262,6 +282,7 @@ _add list here_
 - [Unique BST](dp/Unique_BST.java)
 - [Job Sequencing to Maximize Profit](dp/JobSequencingToMaximizeProfit.java)
 - [Matrix Chain Multiplication to find the minimum cost](dp/MatrixChainMultiplication.java)
+- [Shortest common supersequence](dp/shortestSupersequence.java)
 - [Perfect Sum Problem](dp/PerfectSumProblem.java)
 - [Floyd Warshall Algorithm](dp/FloydWarshallAlgorithm.java)
 - [Subset Sum to Target](dp/SubsetSumToTarget.java)
@@ -283,7 +304,6 @@ _add list here_
 - [Manacher's Algorithm](search/ManacherAlgorithm.java)
 - [Stack Search](search/Stack_Search.java)
 - [Bilinear Search](search/Bilinear_Search.java)
-- [Jump Search Algorithm](search/JumpSearchAlgorithm.java)
 - [Recursive Binary Search](search/BinarySearchRecursive.java)
 
 ## Sorting
@@ -295,6 +315,7 @@ _add list here_
 - [Counting Sort](sort/CountingSort.java)
 - [Heap Sort](sort/HeapSort.java)
 - [Insertion Sort](sort/InsertionSort.java)
+- [Lomuto Partition](sort/LomutoPartition.java)
 - [Merge Sort](sort/Merge_sort.java)
 - [Minimum number of swaps to sort an array of N unordered consecutive integers](sort/MinimumSwapsForNIntegers.java)
 - [Optimized Bubble Sort](sort/OptimizedBubbleSort.java)
@@ -307,6 +328,7 @@ _add list here_
 - [Sleep Sort](sort/SleepSort.java)
 - [Comb Sort](sort/CombSort_implementation.java)
 - [Tree Sort](sort/TreeSort.java)
+- [Quick Sort in strings](sort/QuickSort_in_strings.java)
 
 ## Machine Learning
 
@@ -325,6 +347,7 @@ _add list here_
 
 ## Other
 
+- [Find Peak element](other/Peak_element.java)
 - [Smallest and longest Substring with given length](other/smallest_and_longest_SubString.java)
 - [3 sum closest to target](other/3sum_closest_to_target.java)
 - [All possible codes](other/LetterCodeRecursion.java)
@@ -336,20 +359,26 @@ _add list here_
 - [Keys and rooms for entry](other/Key_n_room.java)
 - [Maximum size square sub-matrix with all 1's](other/MaximumSquareMatrix.java)
 - [Merge 2 Sorted arrays in O(1) extra space](other/MergeSortedArrays.java)
+- [Minimum Depth Binary Tree](other/MinimumDepthBT.java)
 - [Minimum Sum Partition](other/MinimumSumPartition.java)
 - [N Knight Kill](other/NKnightKill.java)
 - [One plus to the whole](other/OnePlustoWhole.java)
+- [Optimal Division of numbers](other/Optimal_division_of_numbers.java)
 - [Print all possible subsequences](other/SubSequences.java)
 - [Painter Partition problem](other/PainterPartition.java)
 - [Sum of pairwise bit differences](other/Pairwise_bitdiff_sum.java)
 - [Rainwater Harvesting](other/RainWaterHarvesting.java)
 - [Recursion Counting of Substring in given String](other/RecursionCount.java)
 - [Remove the key element from the array](other/remove_element_from_array.java)
+- [Retrieve Binary Search Tree](other/RetrieveBTS.java)
 - [Search Insert Position](other/Search_insert_index.java)
+- [Convert Sorted Array to Binary Search Tree](other/SortedArrayToBST.java)
 - [Sudoku solver](other/SudokuSolver.java)
+- [Sum up root to the leaf number](other/SumRootToLeaf.java)
 - [Swap Nibbles](other/SwapNibbles.java)
 - [Three Sum Problem](other/three_Sum_problem.java)
 - [Tower of Hanoi problem](other/TowerOfHanoi.java)
+- [Trimming Binary Tree](other/Trimming_binary_tree.java)
 - [Unique 3](other/UniqueIII.java)
 - [Unique Number in an Array using Bitmasking](other/UniqueNumberBitmasking.java)
 - [LastdigitofnthFibonacci](other/LastDigitFibonacci.java)
@@ -371,3 +400,4 @@ _add list here_
 - [Longest Consecutive Sequence](other/Longest_Consecutive_Squence.java)
 - [Quadratic probing in java](other/quadraticProbing.java)
 - [Display all possible keypad sequences for a given input number](other/KeypadSequence.java)
+- [Product of Array Except Self](other/ArrayProductExceptSelf.java)
